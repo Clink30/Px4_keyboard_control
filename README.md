@@ -1,7 +1,6 @@
-# Px4_keyboard_control
-# 实现键盘控制基于px4的无人机飞行
-
 # Px4+MAVROS键盘控制
+
+实现键盘控制基于px4的无人机飞行
 
 # 一、启动方法
 
@@ -132,8 +131,3 @@ B————————无人机锁定
 
 注意：在控制px4仿真的无人机时，需要先按键 T启动外部控制，然后按键G解锁无人机后才能正常控制其飞行。
 
-# 三、附件
-
-### px4 ros节点键盘控制V\_0.5
-
-[请至钉钉文档查看附件《px4\_keyboard\_control.zip》](https://alidocs.dingtalk.com/i/nodes/m0Xw6OYE4D7VLOyxdvQbWRq13rbjgPM5?doc_type=wiki_doc&iframeQuery=anchorId%253DX02l6nhb27tvxwvqo4f07)
